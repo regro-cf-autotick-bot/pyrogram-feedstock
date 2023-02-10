@@ -1,5 +1,5 @@
 {% set name = "pyrogram" %}
-{% set version = "2.0.97" %}
+{% set version = "2.0.98" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/Pyrogram-{{ version }}.tar.gz
-  sha256: e1a0d4a1968425c737b552a9f3c1b2ee18187813bf3285175d87b9ec5e8bc110
+  sha256: 8e315ad0183cf3e64e6e20e07a1e01bf3c4aff04a3f08f9dcb6ec8b5f24bae26
 
 build:
   noarch: python
