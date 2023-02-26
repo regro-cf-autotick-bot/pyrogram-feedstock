@@ -1,11 +1,11 @@
-About pyrogram
-==============
+About pyrogram-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyrogram-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/pyrogram
 
 Package license: LGPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyrogram-feedstock/blob/main/LICENSE.txt)
 
 Summary: Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 
